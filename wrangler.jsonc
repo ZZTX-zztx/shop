@@ -1,0 +1,7 @@
+name = "shop-kv-api"
+main = "worker.js"
+compatibility_date = "2026-06-01"
+
+[[kv_namespaces]]
+binding = "SHOP_KV"
+id = "c02c733b05854a2da99d2711a1a21947"
